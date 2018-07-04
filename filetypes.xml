@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="global" type="PHP" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="homeland" type="PLAIN_TEXT" />
       <mapping ext="run" type="PLAIN_TEXT" />
       <mapping pattern="sql_transport" type="SQL" />
       <mapping pattern="wt_config" type="YAML" />
