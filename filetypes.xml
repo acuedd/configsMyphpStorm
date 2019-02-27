@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="global" type="PHP" />
       <mapping pattern="reporte_transacciones_newer_php" type="PLAIN_TEXT" />
+      <mapping pattern="DML_instances.sql" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="homeland" type="PLAIN_TEXT" />
       <mapping ext="run" type="PLAIN_TEXT" />
