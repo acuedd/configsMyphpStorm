@@ -1,5 +1,12 @@
 <application>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="acued89@gmail.com" />
+        </UrlAndUserName>
+      </list>
+    </option>
   </component>
 </application>
