@@ -6,6 +6,7 @@
       <mapping pattern="docker-php-pecl-install" type="PLAIN_TEXT" />
       <mapping pattern="check-status-code" type="PLAIN_TEXT" />
       <mapping pattern=".env_local" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
