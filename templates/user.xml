@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="fdebug" value="function debug($var, $title =&quot;&quot;){&#10;    print &quot;&lt;pre&gt;&quot;;&#10;    if(!empty($title)) print &quot;&lt;p&gt;{$title}&lt;/p&gt;&quot;;&#10;    print_r($var);&#10;    print &quot;&lt;/pre&gt;&quot;;&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
