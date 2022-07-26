@@ -4,7 +4,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="fconsole" value="function debug($var, $title =&quot;&quot;){&#10;    print &quot;\n&quot;;&#10;    if(!empty($title)) print &quot;---&gt; {$title} &lt;---&quot;;&#10;    print_r($var);&#10;    print &quot;\n&quot;;&#10;}" description="debug in console" toReformat="false" toShortenFQNames="true">
+  <template name="fconsole" value="function debug($var, $title =&quot;&quot;){&#10;    print &quot;\n&quot;;&#10;    if(!empty($title)) print &quot;---&gt; {$title} &lt;---\n&quot;;&#10;    print_r($var);&#10;    print &quot;\n&quot;;&#10;}" description="debug in console" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
